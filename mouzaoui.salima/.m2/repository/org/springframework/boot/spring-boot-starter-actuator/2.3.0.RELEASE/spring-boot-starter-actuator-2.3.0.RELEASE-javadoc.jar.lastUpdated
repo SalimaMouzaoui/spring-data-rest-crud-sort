@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 15:32:01 WAT 2020
+@default-Central-https\://repo.maven.apache.org/maven2/.lastUpdated=1590244321745
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-actuator\:jar\:javadoc\:2.3.0.RELEASE from/to Central (https\://repo.maven.apache.org/maven2/)\: repo.maven.apache.org

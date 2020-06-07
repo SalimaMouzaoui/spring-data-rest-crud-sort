@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 13 15:54:39 WAT 2020
+ece7b7d16773500547f2ce26a3a47c9f42883c72@proxy.sonelgaz.dz\:8080>@default-Central-http\://repo1.maven.org/maven2/.lastUpdated=1581605679994
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.0.5.RELEASE from/to Central (http\://repo1.maven.org/maven2)\: Failed to transfer http\://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.0.5.RELEASE/spring-boot-starter-parent-2.0.5.RELEASE.pom. Error code 501, HTTPS Required
